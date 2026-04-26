@@ -13,3 +13,5 @@ Communication = emoji JSON léger
 Core MCH = Apache 2.0
 Spé rentables = Licence commerciale
 Audit Auto FFA2 = Apache 2.0
+
+feature/ia-agents
