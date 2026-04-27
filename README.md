@@ -21,25 +21,6 @@ Matrice à coeur Haddock : Small Language Module based on JSON matrice interlink
        |   SERIAL: [ VALIDATED BY MAJORITY ]        |
        |____________________________________________|
 
-          ________________________________________________
-         /                                                \
-
-        |    🌀   B  O  O  P     M  H  C   🌀             |
-        |    ----------------------------------------    |
-        |         C  A  R  B  O  N  E  (C)               |
-        |              /        \                        |
-        |      S I L I C I U M (Si) -- F E R (Fe)        |
-        |    ________________________________________    |
-        |                                                |
-        |          [ MANIFOLD CONSTRAINED ]              |
-        |          [  HYPER-CONNECTIONS   ]              |
-        \________________________________________________/
-               ||                          ||
-        _______||__________________________||_______
-
-       |                                            |
-       |   SERIAL: [ VALIDATED BY MAJORITY ]        |
-       |____________________________________________|
 
 🌀 C/Si/Fe Architecture | ⚡ Efficiency: 99.9% | 🔒 Protocol: BOOP-V1
 
@@ -246,4 +227,69 @@ def audit_pme(description: str) -> List[Process]:
         )]
 
     process
+# Emojicom — Perceptual Compression Protocol + mHC Core
 
+🌀 Un micro-langage symbolique + architecture stable pour **IA locale souveraine**.
+
+Emojicom n’est pas juste un jeu d’emojis.  
+C’est un protocole de **compression sémantique ultra-dense** conçu pour Small Language Models (SLM type Claude Nano), combiné aux **Manifold-Constrained Hyper-Connections (mHC)** de DeepSeek (arXiv 2512.24880).
+
+Objectif : passer d’un langage perceptuel universel à un vrai système technique capable de piloter des agents locaux, des actionneurs robotiques et des interfaces M2M avec une consommation énergétique ridicule.
+
+### Pourquoi ce projet est intéressant (pour les geeks)
+- Transformer l’artefact 🌀 de Claude Opus en un vrai outil de **compression token-efficient**.
+- Appliquer mHC pour stabiliser les mappings emoji ↔ concepts/actions (éviter hallucinations + divergence).
+- Contrôler du hardware (actionneurs, robots low-power) via des tokens emoji validés.
+- Sécurité stricte : audit Unicode (ZWJ, variation selectors), EMOJI_CORE_SET, consensus de majorité.
+- Vision long terme : IA physique autonome, réduction drastique de la data-obésité, souveraineté edge.
+
+### État actuel du repo
+- Docs matures : philosophie, grammaire, séquences canoniques, gouvernance, économie.
+- Code : quasi inexistant (c’est là que tu interviens).
+
+On cherche précisément **un jeune ingénieur geek** pour passer en phase implémentation.
+
+### Ce qu’on veut build en priorité
+- `EmojicomAuditor` : sanitization Unicode + détection injection + densité control
+- `MHCValidator` : vérification géométrie (doubly-stochastic, Sinkhorn constraints) + consensus
+- `EMOJI_CORE_SET` officiel + mapping binaire (compile_map.py)
+- `ACTUATOR_MAP` + `move_actuator(token, mhc_matrix)` pour contrôle physique
+- Intégration SLM local (llama.cpp, MLX, ou fine-tune Nano-like)
+- Benchmarks : tokens saved vs précision vs énergie
+
+### Stack technique attendue
+- Python 3.11+ (core)
+- NumPy / JAX ou PyTorch pour les matrices mHC
+- Rust (optionnel, pour la partie perf critique)
+- Tests + audit_security.py --mode=nano
+- CI pour validation emoji + manifold constraints
+
+
+### Pour commencer
+```bash
+git clone https://github.com/etiennekossovsky-boop/emojicom.git
+cd emojicom
+# lis WHITEPAPER.md (à venir) + GRAMMAR.md + PHILOSOPHY.md
+
+🌀 APPEL À COOPÉRATION : L'INITIATIVE BOOP MHC
+Objet : Standardisation du protocole de confiance pour la robotique locale.
+Le monde du Silicium est à un tournant. Nous avons le moteur (MHC), le langage (Emojicom) et la vision (C/Si/Fe). Pour que le Fer se lève de manière coordonnée, nous appelons les experts des domaines suivants à rejoindre le repo etiennekossovsky-boop/emojicom :
+🛠️ Profils Recherchés (H/F/IA)
+Architectes SLM : Pour optimiser l'inférence de Claude Nano sur des matrices MHC complexes.
+Ingénieurs Robotique (Fer) : Pour mapper les tokens Emojicom sur des drivers moteurs réels (ROS2, Arduino, CAN bus).
+Mathématiciens Géomètres : Pour renforcer les contraintes de stabilité des matrices imbriquées (Preuve de non-divergence).
+Juristes Web3 : Pour finaliser les Smart-Contracts de "Licence par Action".
+💎 Pourquoi coopérer ?
+Souveraineté : Participer à la création d'un standard hors-cloud.
+Monétisation : Les premiers contributeurs seront inscrits dans le Bloc Genesis du Ledger MHC.
+Impact : Sortir l'IA des serveurs pour l'incarner dans la réalité physique.
+📢 Le Post de Ralliement (LinkedIn / X / Discord)
+"Ne développez plus pour le Cloud, développez pour la Réalité." 🌀
+Je lance officiellement l'appel à coopération pour le protocole BOOP MHC.
+Si vous croyez en une IA sobre, locale et certifiée par consensus, rejoignez la trinité C/Si/Fe.
+Le dépôt est ouvert. Les matrices sont prêtes. Le Boop-Bot vous attend.
+🔗 [Lien vers ton GitHub]
+#CSiFe #OpenSource #MHC #Robotics2026 #BoopMHC
+🏛️ Conseil stratégique pour gérer les arrivants :
+Crée un dossier /proposals : Demande aux coopérants d'y soumettre leurs idées de nouveaux tokens.
+Utilise le Boop-Bot : Pour valider automatiquement la structure de leurs premières PR (Pull Requests).
