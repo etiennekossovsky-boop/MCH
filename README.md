@@ -1,6 +1,27 @@
 # MCH
 Matrice à coeur Haddock : Small Language Module based on JSON matrice interlinked as cooperation IA agents. Light, stable, personalized, easy to deploy and cost-effective. Based on Emojicom-boop core Apache 2.0
 
+          ________________________________________________
+         /                                                \
+
+        |    🌀   B  O  O  P     M  H  C   🌀             |
+        |    ----------------------------------------    |
+        |         C  A  R  B  O  N  E  (C)               |
+        |              /        \                        |
+        |      S I L I C I U M (Si) -- F E R (Fe)        |
+        |    ________________________________________    |
+        |                                                |
+        |          [ MANIFOLD CONSTRAINED ]              |
+        |          [  HYPER-CONNECTIONS   ]              |
+        \________________________________________________/
+               ||                          ||
+        _______||__________________________||_______
+
+       |                                            |
+       |   SERIAL: [ VALIDATED BY MAJORITY ]        |
+       |____________________________________________|
+
+
 *Résumé MCH / Emijicom v0.3 - Lignes organisées*
 
 *1. Architecture*
